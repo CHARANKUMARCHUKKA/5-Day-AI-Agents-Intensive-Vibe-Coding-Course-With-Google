@@ -1,0 +1,8 @@
+{
+  "name": "Aether Simulation Studio",
+  "description": "An ultra-premium, interactive 3D environmental simulation dashboard powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

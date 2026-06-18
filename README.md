@@ -1,20 +1,63 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 5-Day AI Agents Intensive Vibe Coding Course With Google
 
-# Run and deploy your AI Studio app
+A hands-on learning repository documenting my journey through Google's 5-Day AI Agents Intensive Course.
 
-This contains everything you need to run your app locally.
+This course explores the fundamentals of AI agents, agent orchestration, tool integration, prompt engineering, and building production-ready AI applications using modern AI development workflows.
 
-View your app in AI Studio: https://ai.studio/apps/cc6257a7-30da-4d8a-b7cd-6a627c543fdf
+## Overview
 
-## Run Locally
+Throughout this course, I learned how to:
 
-**Prerequisites:**  Node.js
+- Build AI-powered applications using natural language workflows
+- Understand agent architectures and reasoning patterns
+- Integrate external APIs and tools into AI systems
+- Design multi-step agent workflows
+- Apply prompt engineering best practices
+- Develop production-ready AI projects
 
+## What I Built
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Aether Simulation Studio
+An AI-powered simulation environment developed during the course.
+
+#### Features
+- Interactive AI-driven simulations
+- Modern React and TypeScript architecture
+- Responsive user interface
+- Modular component design
+- Extensible agent workflow system
+
+## Technology Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Google Gemini
+- AI Agents Framework
+- Git & GitHub
+
+## Learning Outcomes
+
+By completing this intensive program, I gained practical experience in:
+
+- AI Agent Design
+- Prompt Engineering
+- Tool Calling
+- Agent Workflows
+- Context Management
+- Frontend Development
+- API Integration
+- Software Engineering Best Practices
+
+## Repository Structure
+
+```text
+.
+├── assets/
+├── src/
+├── README.md
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+└── server.ts
